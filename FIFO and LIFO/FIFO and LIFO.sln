@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FIFO and LIFO", "FIFO and LIFO.vcxproj", "{293AAE41-DC57-4DC8-96C9-D61BE37DF971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{293AAE41-DC57-4DC8-96C9-D61BE37DF971}.Debug|x64.ActiveCfg = Debug|x64
+		{293AAE41-DC57-4DC8-96C9-D61BE37DF971}.Debug|x64.Build.0 = Debug|x64
+		{293AAE41-DC57-4DC8-96C9-D61BE37DF971}.Debug|x86.ActiveCfg = Debug|Win32
+		{293AAE41-DC57-4DC8-96C9-D61BE37DF971}.Debug|x86.Build.0 = Debug|Win32
+		{293AAE41-DC57-4DC8-96C9-D61BE37DF971}.Release|x64.ActiveCfg = Release|x64
+		{293AAE41-DC57-4DC8-96C9-D61BE37DF971}.Release|x64.Build.0 = Release|x64
+		{293AAE41-DC57-4DC8-96C9-D61BE37DF971}.Release|x86.ActiveCfg = Release|Win32
+		{293AAE41-DC57-4DC8-96C9-D61BE37DF971}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0D6E554-DF73-43BF-96B5-DFDFFFDBAB50}
+	EndGlobalSection
+EndGlobal
